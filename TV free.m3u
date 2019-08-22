@@ -1,0 +1,150 @@
+﻿#EXTM3U BTTH-s
+#EXTINF:-1 group-title="VTC",VTC1
+https://cdn.vtc.gov.vn/live/eds/VTC1_1/hlsv5/VTC1_1-audio_20000=212400-video=790000.m3u8
+#EXTINF:-1,VTC2
+https://cdn.vtc.gov.vn/live/eds/VTC2_2/hlsv5/VTC2_2-audio_20000=212400-video=1275600.m3u8
+#EXTINF:-1,VTC3
+https://cdn.vtc.gov.vn/live/eds/VTC3_3/hlsv5/VTC3_3-audio_20000=212400-video=1200000.m3u8
+#EXTINF:-1,VTC4
+https://cdn.vtc.gov.vn/live/eds/VTC4_4/hlsv5/VTC4_4-audio_20000=212400-video=1275600.m3u8
+#EXTINF:-1,VTC5
+https://cdn.vtc.gov.vn/live/eds/VTC5_5/hlsv5/VTC5_5-audio_20000=212400-video=1275600.m3u8
+#EXTINF:-1,VTC6
+https://cdn.vtc.gov.vn/live/eds/VTC6_6/hlsv5/VTC6_6-audio_20000=212400-video=1275600.m3u8
+#EXTINF:-1,VTC7
+https://cdn.vtc.gov.vn/live/eds/VTC7_7/hlsv5/VTC7_7-audio_20000=212400-video=1200000.m3u8
+#EXTINF:-1,VTC8
+https://cdn.vtc.gov.vn/live/eds/VTC8_8/hlsv5/VTC8_8-audio_20000=212400-video=1275600.m3u8
+#EXTINF:-1,VTC9
+https://cdn.vtc.gov.vn/live/eds/VTC9_9/hlsv5/VTC9_9-audio_20000=212400-video=1275600.m3u8
+#EXTINF:-1,VTC10
+https://cdn.vtc.gov.vn/live/eds/VTC10_10/hlsv5/VTC10_10-audio_20000=212400-video=1275600.m3u8
+#EXTINF:-1,VTC11
+https://cdn.vtc.gov.vn/live/eds/VTC11_11/hlsv5/VTC11_11-audio_20000=212400-video=1275600.m3u8
+#EXTINF:-1,VTC13
+https://cdn.vtc.gov.vn/live/eds/VTC13_13/hlsv5/VTC13_13-audio_20000=212400-video=1275600.m3u8
+#EXTINF:-1,VTC14
+https://cdn.vtc.gov.vn/live/eds/VTC14_14/hlsv5/VTC14_14-audio_20000=212400-video=1582000.m3u8
+#EXTINF:-1,VTC16
+https://cdn.vtc.gov.vn/live/eds/VTC16_16/hlsv5/VTC16_16-audio_20000=212400-video=1275600.m3u8
+
+#EXTINF:-1 ,group-title="Hà Nội",Hà Nội 2
+http://vncdn.mediatech.vn/hntvlive/tv2live.m3u8
+
+#EXTINF:-1 group-title="Movie",Fox
+http://persik.by/stream/3477/395381/10234.m3u8
+#EXTINF:-1,Fox Life
+http://persik.by/stream/3477/395381/10455.m3u8
+#EXTINF:-1,Кинохит
+http://persik.by/stream/3477/395381/10327.m3u8
+#EXTINF:-1,Кинопремьера
+http://persik.by/stream/3477/395381/10328.m3u8
+#EXTINF:-1,Кинопремьера HD
+http://persik.by/stream/3477/395381/10329.m3u8
+#EXTINF:-1,Киносемья
+http://persik.by/stream/3477/395381/10330.m3u8
+#EXTINF:-1,Киносвидание
+http://persik.by/stream/3477/395381/10331.m3u8
+#EXTINF:-1,Киномикс
+http://persik.by/stream/3477/395381/10332.m3u8
+#EXTINF:-1,Кинокомедия
+http://persik.by/stream/3477/395381/10333.m3u8
+#EXTINF:-1,Наше новое кино
+http://persik.by/stream/3477/395381/10334.m3u8
+#EXTINF:-1,Мужское кино HD
+http://persik.by/stream/3477/395381/10368.m3u8
+#EXTINF:-1,Санаторий Радон HD
+http://persik.by/stream/3477/395381/10370.m3u8
+#EXTINF:-1,SET
+http://persik.by/stream/3477/395381/10448.m3u8
+#EXTINF:-1,Sony Sci-fi
+http://persik.by/stream/3477/395381/10449.m3u8
+#EXTINF:-1,Sony Turbo
+http://persik.by/stream/3477/395381/10450.m3u8
+#EXTINF:-1,Мир сериала
+http://persik.by/stream/3477/395381/10451.m3u8
+#EXTINF:-1,Любимое кино
+http://persik.by/stream/3477/395381/10452.m3u8
+
+#EXTINF:-1 group-title="Science",Discovery Channel
+http://94.78.247.193:1234/udp/233.7.70.12:5000
+#EXTINF:-1 group-title="Science",Travel+Adventure
+http://persik.by/stream/3477/395381/832.m3u8
+#EXTINF:-1 group-title="Science",Travel+Adventure HD
+http://persik.by/stream/3477/395381/10323.m3u8
+#EXTINF:-1,Охота и рыбалка
+http://persik.by/stream/3477/395381/243.m3u8
+#EXTINF:-1,Nat Geo HD
+http://persik.by/stream/3477/395381/10243.m3u8
+#EXTINF:-1,NatGeo Wild
+http://persik.by/stream/3477/395381/10446.m3u8
+#EXTINF:-1,Kukhnya TV
+http://persik.by/stream/3477/395381/10287.m3u8
+#EXTINF:-1,travel russia
+http://persik.by/stream/3477/395381/880.m3u8
+#EXTINF:-1,Travel channel
+http://persik.by/stream/3477/395381/88.m3u8
+#EXTINF:-1,Amedia premium
+http://persik.by/stream/3477/395381/647.m3u8
+
+#EXTINF:-1 group-title="Sport",Матч!
+http://persik.by/stream/3477/395381/276.m3u8
+#EXTINF:-1 group-title="Sport",Матч! Арена
+http://persik.by/stream/3477/395381/261.m3u8
+#EXTINF:-1 group-title="Sport",Матч! Игра
+http://persik.by/stream/3477/395381/10270.m3u8
+#EXTINF:-1 group-title="Sport",Матч! Наш спорт
+http://persik.by/stream/3477/395381/10271.m3u8
+#EXTINF:-1 group-title="Sport",Матч! Футбол 1
+http://persik.by/stream/3477/395381/346.m3u8
+#EXTINF:-1 group-title="Sport",Матч! Футбол 1 HD
+http://persik.by/stream/3477/395381/10266.m3u8
+#EXTINF:-1 group-title="Sport",Матч! Футбол 2
+http://persik.by/stream/3477/395381/10217.m3u8
+#EXTINF:-1 group-title="Sport",Матч! Футбол 2 HD
+http://persik.by/stream/3477/395381/10267.m3u8
+#EXTINF:-1 group-title="Sport",Матч! Футбол 3
+http://persik.by/stream/3477/395381/10218.m3u8
+#EXTINF:-1 group-title="Sport",Матч! Футбол 3 HD
+http://persik.by/stream/3477/395381/10268.m3u8
+#EXTINF:-1 group-title="Sport",Наш футбол
+http://persik.by/stream/3477/395381/284.m3u8
+#EXTINF:-1,Спорт 1
+http://persik.by/stream/3477/395381/270.m3u8
+#EXTINF:-1,Спорт 2
+http://persik.by/stream/3477/395381/309.m3u8
+#EXTINF:-1,Setanta sports
+http://persik.by/stream/3477/395381/10313.m3u8
+#EXTINF:-1,Setanta sports HD
+http://persik.by/stream/3477/395381/10314.m3u8
+#EXTINF:-1,Setanta sports
+http://persik.by/stream/3477/395381/10315.m3u8
+#EXTINF:-1,Setanta sports HD
+http://persik.by/stream/3477/395381/10316.m3u8
+
+#EXTINF:-1 group-title="Cartoon",Nickelodeon
+http://persik.by/stream/3477/395381/45.m3u8
+#EXTINF:-1,Nickelodeon HD
+http://persik.by/stream/3477/395381/10420.m3u8
+#EXTINF:-1,Carton
+http://persik.by/stream/3477/395381/32.m3u8
+#EXTINF:-1,Детский мир
+http://persik.by/stream/3477/395381/10421.m3u8
+#EXTINF:-1,Дисней
+http://persik.by/stream/3477/395381/10422.m3u8
+
+#EXTINF:-1 group-title="Comedy",ТНТ
+http://persik.by/stream/3477/395381/00981.m3u8
+#EXTINF:-1,КИНОКАМЕДИЯ
+http://persik.by/stream/3477/395381/292.m3u8
+#EXTINF:-1,Comedy Central
+http://persik.by/stream/3477/395381/10480.m3u8
+
+#EXTINF:-1 group-title="Music",MTV HITS
+http://persik.by/stream/3477/395381/10208.m3u8
+#EXTINF:-1,MTV
+http://persik.by/stream/3477/395381/10226.m3u8
+#EXTINF:-1,MTV Rocks
+http://persik.by/stream/3477/395381/10227.m3u8
+#EXTINF:-1,MTV LIVE HD MUSICA
+http://persik.by/stream/3477/395381/10289.m3u8
